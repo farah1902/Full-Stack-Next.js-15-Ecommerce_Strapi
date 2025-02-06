@@ -102,8 +102,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## 📧 Contact
 For any questions or support, feel free to reach out:
-- **GitHub:** [farah1902](https://github.com/farah1902)
+- **GitHub 1:** [farah1902](https://github.com/farah1902)
+- **GitHub 2:** [saadfrh](https://github.com/saadfrh)
 - **Email:** saad1902farah@gmail.com
+- **Phone:** +212 689 479 013
 ---
 
 ### ⭐ If you find this project helpful, consider giving it a star! ⭐
