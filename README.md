@@ -16,8 +16,8 @@ This project is a fully functional e-commerce application built using **Next.js 
 ## 📥 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/farah1902/Full-Stack-Next.js-15-Ecommerce_Strapi.git
+cd repo-name
 ```
 
 ### 2️⃣ Install Dependencies
@@ -102,7 +102,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## 📧 Contact
 For any questions or support, feel free to reach out:
-- **GitHub:** [your-username](https://github.com/your-username)
+- **GitHub:** [farah1902](https://github.com/farah1902)
 - **Email:** saad1902farah@gmail.com
 ---
 
