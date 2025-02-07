@@ -8,7 +8,6 @@ function ProductSection() {
 
   const [productList, setProductList] = useState([])
 
-  
   useEffect(()=>{
     getLatestProducts_();
   },[])
@@ -21,9 +20,11 @@ function ProductSection() {
     })
   }
 
-
   return (
-    <div><ProductList productList={productList}/></div>
+    <div className='px-10 md:px-20'>
+      <h2 className='my-4 text-xl font-roboto-bold'>Our Latest Products</h2>
+      <ProductList productList={productList}/>
+    </div>
   )
 }
 
